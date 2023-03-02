@@ -1,16 +1,24 @@
-<!--
-**ryu820/ryu820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23&height=200&section=header&text=Welcome-nl-ruru's%20github%20Profile&fontSize=70&animation=twinkling)
+  
+####  :wave: Welcome my github profile !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi🌱 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryu820&show_icons=true&theme=flag-india)
+  
+ <br/>
+ 
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+ 
+   <br/>
+   <br/>
+   <br/>
+  
+![ryu820's github stats](https://github-readme-stats.vercel.app/api?username=ryu820&theme=vue&show_icons=true)
+</div>
+
+
+
+
