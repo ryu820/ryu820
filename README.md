@@ -21,7 +21,6 @@
   <br/>
   
   ![ryu820's github stats](https://github-readme-stats.vercel.app/api?username=ryu820&theme=vue&show_icons=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=ryu820&currStreakLabel=04C17D&ring=04C17D&fire=046D47)
   
 </div>
 
