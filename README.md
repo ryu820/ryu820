@@ -18,7 +18,7 @@
    <br/>
    <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryu820&count_bg=%23848484&title_bg=%23000000&icon=git.svg&icon_color=%23E7E7E7&title=git&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryu820&count_bg=%23000000&title_bg=%23508E00&icon=git.svg&icon_color=%23FFFFFF&title=git&edge_flat=true)](https://hits.seeyoufarm.com)
 
   <h3 align="center">💡 My Git Stats 💡</h3>
   
