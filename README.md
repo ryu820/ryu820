@@ -27,8 +27,9 @@
 <br/> 
 <br/> 
 <a href="https://ryu-8200.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor="FFFFFF"/></a>
+<a href="https://dark-paw-53f.notion.site/dffb588aa5bc46b69b7be95fab184511" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor="FFFFFF"/></a>
 <br/>
-  👆click!!
+  👆click!!👆
    <br/>
   <br/>
   
