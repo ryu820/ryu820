@@ -18,7 +18,7 @@
   <br/>
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
 <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> -->
 <br/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -27,9 +27,8 @@
 <br/> 
 <br/> 
 <a href="https://ryu-8200.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor="FFFFFF"/></a>
-<a href="https://dark-paw-53f.notion.site/dffb588aa5bc46b69b7be95fab184511" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor="FFFFFF"/></a>
 <br/>
-  👆click!!👆
+  👆click!!
    <br/>
   <br/>
   
