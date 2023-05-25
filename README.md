@@ -34,10 +34,14 @@
 <h3 align="center">✨ My Git Stats ✨</h3>
   
 ![ryu820's github stats](https://github-readme-stats.vercel.app/api?username=ryu820&theme=vue&show_icons=true)
-<br/>
-<h3 align="center">✨ My Git Activity Graph ✨</h3>
-  
-[![hyunju's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ryu820&bg_color=ffffff&color=005104&line=005104&point=0A6E0A&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+  
+<h3 align="center">✨ My Git Profile details card ✨</h3>
+<br/>  
+  
+![ryu820's github summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryu820&theme=vue)
+
+<br/>
   
 </div>
