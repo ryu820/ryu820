@@ -35,11 +35,6 @@
   
 ![ryu820's github stats](https://github-readme-stats.vercel.app/api?username=ryu820&theme=vue&show_icons=true)
 
-<br/>
-  
-<h3 align="center">✨ Most Used Languages ✨</h3>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryu820&layout=compact&theme=vue)
   
 <br/>
   
