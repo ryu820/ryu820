@@ -37,6 +37,12 @@
 
 <br/>
   
+<h3 align="center">✨ Most Used Languages ✨</h3>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryu820&layout=compact&theme=vue)
+  
+<br/>
+  
 <h3 align="center">✨ My Git Profile details card ✨</h3>
 <br/>  
   
