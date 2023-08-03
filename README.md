@@ -46,11 +46,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryu820&layout=compact&theme=vue)
   
 <br/>
-  
-<h3 align="center">✨ My Git Profile details card ✨</h3>
-<br/>  
-  
-![ryu820's github summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryu820&theme=vue)
 
 <br/>
   
