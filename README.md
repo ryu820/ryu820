@@ -1,8 +1,8 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23&height=200&section=header&text=Welcome-nl-hyunju's%20github%20Profile&fontSize=70&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23&height=200&section=header&text=Welcome-nl-hyunju's%20github%20Profile&fontSize=70&animation=twinkling)-->
   
-####  :wave: Welcome my github profile !
+###  :wave: Welcome my github profile !
   
   
  <br/>
