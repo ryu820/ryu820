@@ -28,11 +28,7 @@
 <br/>  
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 <br/> 
-<br/> 
-<a href="https://ryu-8200.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor="FFFFFF"/></a>
-<br/>
-  👆click!!
-   <br/>
+
   <br/>
   
 <h3 align="center">✨ My Git Stats ✨</h3>
