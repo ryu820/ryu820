@@ -8,7 +8,7 @@
  <br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryu820&count_bg=%23508E00&title_bg=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  
+<!--  
  <br/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -28,7 +28,7 @@
 <br/>  
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 <br/> 
-
+-->
   <br/>
   
 <h3 align="center">✨ My Git Stats ✨</h3>
